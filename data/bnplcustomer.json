@@ -1,0 +1,52 @@
+[
+    {
+        "bnplId": "27754638",
+        "email": "hello@gmail.com",
+        "loginPassword": "1234",
+        "empID": "817955",
+        "orgId": "145678",
+        "name": "Sarath",
+        "accountNumber": "123456789",
+        "salary": "35000.00",
+        "isInNoticePeriod": "yes",
+        "address": "Guntur",
+        "bnplLimit": "4000.0",
+        "PAN": "ABCDE1234F",
+        "bnplCard": {
+            "cardNumber": "4651 7642 1561 4545",
+            "CVV": "854",
+            "expiryDate": "06/27"
+        },
+        "paymentPin": "1234",
+        "autoPay": "1",
+        "autoPayAccount": {
+            "accountNumber": "987654321"
+        },
+        "LoginPassword": "1234"
+    },
+    {
+        "bnplId": "57065573",
+        "email": "sreeshanth@gmail.com",
+        "loginPassword": "1234",
+        "empID": "789012",
+        "orgId": "145678",
+        "name": "Bob",
+        "accountNumber": "567890123",
+        "salary": "40000.00",
+        "isInNoticePeriod": "yes",
+        "address": "Nalgonda",
+        "bnplLimit": "0.0",
+        "PAN": "JKLMN9012P",
+        "bnplCard": {
+            "cardNumber": "9567 6971 8545 3837",
+            "CVV": "038",
+            "expiryDate": "10/25"
+        },
+        "paymentPin": "1234",
+        "autoPay": "1",
+        "autoPayAccount": {
+            "accountNumber": "908743652"
+        },
+        "LoginPassword": "1234"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "empID": "817955",
+        "name": "Sarath",
+        "accountNumber": "123456789",
+        "salary": "35000.00",
+        "isInNoticePeriod": "yes",
+        "Org":"145678"
+    },
+    {
+        "empID": "123456",
+        "name": "Shan",
+        "accountNumber": "987654321",
+        "salary": "45000.00",
+        "isInNoticePeriod": "no",
+        "Org":"145678"
+    },
+    {
+        "empID": "789012",
+        "name": "Bob",
+        "accountNumber": "567890123",
+        "salary": "40000.00",
+        "isInNoticePeriod": "yes",
+        "Org":"145678"
+    },
+    {
+        "empID": "345678",
+        "name": "Emma",
+        "accountNumber": "234567890",
+        "salary": "38000.00",
+        "isInNoticePeriod": "no",
+        "Org":"145678"
+    },
+    {
+        "empID": "901234",
+        "name": "David",
+        "accountNumber": "890123456",
+        "salary": "42000.00",
+        "isInNoticePeriod": "yes",
+        "Org":"145678"
+    },
+    {
+        "empID": "567890",
+        "name": "Sophia",
+        "accountNumber": "456789012",
+        "salary": "37000.00",
+        "isInNoticePeriod": "no",
+        "Org":"344967"
+    },
+    {
+        "empID": "234567",
+        "name": "John",
+        "accountNumber": "123890456",
+        "salary": "39000.00",
+        "isInNoticePeriod": "yes",
+        "Org":"344967"
+    },
+    {
+        "empID": "678901",
+        "name": "Ella",
+        "accountNumber": "890123789",
+        "salary": "43000.00",
+        "isInNoticePeriod": "no",
+        "Org":"344967"
+    },
+    {
+        "empID": "890123",
+        "name": "Michael",
+        "accountNumber": "567890234",
+        "salary": "36000.00",
+        "isInNoticePeriod": "yes",
+        "Org":"344967"
+    },
+    {
+        "empID": "456789",
+        "name": "Olivia",
+        "accountNumber": "234567891",
+        "salary": "41000.00",
+        "isInNoticePeriod": "no",
+        "Org":"344967"
+    },
+    {
+        "empID": "987654",
+        "name": "Ava",
+        "accountNumber": "678901235",
+        "salary": "44000.00",
+        "isInNoticePeriod": "no",
+        "Org":"896532"
+    },
+    {
+        "empID": "876543",
+        "name": "William",
+        "accountNumber": "345678901",
+        "salary": "35000.00",
+        "isInNoticePeriod": "yes",
+        "Org":"896532"
+    },
+    {
+        "empID": "543210",
+        "name": "Sophie",
+        "accountNumber": "901234567",
+        "salary": "40000.00",
+        "isInNoticePeriod": "no",
+        "Org":"896532"
+    },
+    {
+        "empID": "654321",
+        "name": "Mason",
+        "accountNumber": "678901234",
+        "salary": "37000.00",
+        "isInNoticePeriod": "yes",
+        "Org":"896532"
+    },
+    {
+        "empID": "432109",
+        "name": "James",
+        "accountNumber": "123456782",
+        "salary": "36000.00",
+        "isInNoticePeriod": "yes",
+        "Org":"445869"
+    },
+    {
+        "empID": "890123",
+        "name": "Charlotte",
+        "accountNumber": "890123457",
+        "salary": "43000.00",
+        "isInNoticePeriod": "no",
+        "Org":"445869"
+    },
+    {
+        "empID": "210987",
+        "name": "Benjamin",
+        "accountNumber": "567890127",
+        "salary": "38000.00",
+        "isInNoticePeriod": "yes",
+        "Org":"445869"
+    },
+    {
+        "empID": "109876",
+        "name": "Amelia",
+        "accountNumber": "234547890",
+        "salary": "41000.00",
+        "isInNoticePeriod": "no",
+        "Org":"445869"
+    }
+]

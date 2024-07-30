@@ -1,0 +1,126 @@
+[
+    {
+        "transactionId": "47279891174925",
+        "transactionDate": "Jul 30 2024",
+        "description": "Reebok Bat",
+        "amount": "8000.0",
+        "amountLeft": "8000.0",
+        "salaryCut": "20",
+        "personalPayLeft": "4800.0",
+        "salaryPayCutLeft": "533.3333333333333",
+        "bnplId": "27754638",
+        "cardNumber": "4651 7642 1561 4545",
+        "installments": [
+            {
+                "installmentId": "159261",
+                "dueDate": "Dec 26 2024",
+                "amountToPay": "1760.0000000000002",
+                "message": "Interest",
+                "description": "Reebok Bat",
+                "interest": "176.00000000000003"
+            }
+        ],
+        "salaryCuttings": []
+    },
+    {
+        "transactionId": "55961933038661",
+        "transactionDate": "Jul 30 2024",
+        "description": "MRF Bat",
+        "amount": "2000.0",
+        "amountLeft": "2000.0",
+        "salaryCut": "10",
+        "personalPayLeft": "1845.0",
+        "salaryPayCutLeft": "66.66666666666666",
+        "bnplId": "27754638",
+        "cardNumber": "4651 7642 1561 4545",
+        "installments": [
+            {
+                "installmentId": "740371",
+                "dueDate": "Dec 27 2024",
+                "amountToPay": "495.00000000000006",
+                "message": "Insufficient Balance",
+                "description": "MRF Bat"
+            }
+        ],
+        "salaryCuttings": []
+    },
+    {
+        "transactionId": "60026416437652",
+        "transactionDate": "Jul 30 2024",
+        "description": "Cricket Kit",
+        "amount": "16000.0",
+        "amountLeft": "16000.0",
+        "salaryCut": "20",
+        "personalPayLeft": "11200.0",
+        "salaryPayCutLeft": "2750.0",
+        "bnplId": "57065573",
+        "cardNumber": "9567 6971 8545 3837",
+        "installments": [
+            {
+                "installmentId": "734912",
+                "dueDate": "Nov 27 2024",
+                "amountToPay": "1760.0000000000002",
+                "message": "Interest",
+                "description": "Cricket Kit",
+                "interest": "160.0"
+            },
+            {
+                "installmentId": "923326",
+                "dueDate": "Nov 27 2024",
+                "amountToPay": "1600.0"
+            },
+            {
+                "installmentId": "915883",
+                "dueDate": "Dec 27 2024",
+                "amountToPay": "1600.0"
+            },
+            {
+                "installmentId": "950476",
+                "dueDate": "Jan 26 2025",
+                "amountToPay": "1600.0"
+            },
+            {
+                "installmentId": "282083",
+                "dueDate": "Feb 25 2025",
+                "amountToPay": "1600.0"
+            },
+            {
+                "installmentId": "050423",
+                "dueDate": "Mar 27 2025",
+                "amountToPay": "1600.0"
+            }
+        ],
+        "salaryCuttings": [
+            {
+                "installmentId": "121654",
+                "dueDate": "Oct 28 2024",
+                "amountToPay": "450.0"
+            },
+            {
+                "installmentId": "933899",
+                "dueDate": "Nov 27 2024",
+                "amountToPay": "450.0"
+            },
+            {
+                "installmentId": "480128",
+                "dueDate": "Dec 27 2024",
+                "amountToPay": "450.0"
+            },
+            {
+                "installmentId": "305054",
+                "dueDate": "Jan 26 2025",
+                "amountToPay": "450.0"
+            },
+            {
+                "installmentId": "882578",
+                "dueDate": "Feb 25 2025",
+                "amountToPay": "450.0"
+            },
+            {
+                "installmentId": "469551",
+                "dueDate": "Mar 27 2025",
+                "amountToPay": "450.0"
+            }
+        ]
+    }
+]

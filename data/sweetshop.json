@@ -1,0 +1,100 @@
+{
+    "145678": {
+        "name": "BAKERY",
+        "accountNumber": "19870326451",
+        "accountBalance": "42134270.0",
+        "upcoming": [],
+        "previous": [
+            {
+                "orgId": "145678",
+                "Date": "2024-07-30",
+                "Description": "salaries of my employees",
+                "beneficiary": [
+                    {
+                        "empID": "817955",
+                        "accountNumber": "123456789",
+                        "salary": "35000.00"
+                    },
+                    {
+                        "empID": "123456",
+                        "accountNumber": "987654321",
+                        "salary": "45000.00"
+                    },
+                    {
+                        "empID": "789012",
+                        "accountNumber": "567890123",
+                        "salary": "40000.00"
+                    },
+                    {
+                        "empID": "345678",
+                        "accountNumber": "234567890",
+                        "salary": "38000.00"
+                    },
+                    {
+                        "empID": "901234",
+                        "accountNumber": "890123456",
+                        "salary": "42000.00"
+                    }
+                ],
+                "amount": 200000,
+                "tranId": 9863857
+            }
+        ]
+    },
+    "344967": {
+        "name": "RESTAURENT",
+        "accountNumber": "44368925213",
+        "accountBalance": "1000000.00",
+        "upcoming": [],
+        "previous": [
+            {
+                "orgId": "344967",
+                "Date": "2024-07-30",
+                "Description": "salaries of my employees",
+                "beneficiary": [
+                    {
+                        "empID": "567890",
+                        "accountNumber": "456789012",
+                        "salary": "37000.00"
+                    },
+                    {
+                        "empID": "234567",
+                        "accountNumber": "123890456",
+                        "salary": "39000.00"
+                    },
+                    {
+                        "empID": "678901",
+                        "accountNumber": "890123789",
+                        "salary": "43000.00"
+                    },
+                    {
+                        "empID": "890123",
+                        "accountNumber": "567890234",
+                        "salary": "36000.00"
+                    },
+                    {
+                        "empID": "456789",
+                        "accountNumber": "234567891",
+                        "salary": "41000.00"
+                    }
+                ],
+                "amount": 196000,
+                "tranId": 4106423
+            }
+        ]
+    },
+    "896532": {
+        "name": "FURNITURE",
+        "accountNumber": "89655874632",
+        "accountBalance": "35698412",
+        "upcoming": [],
+        "previous": []
+    },
+    "445869": {
+        "name": "ELECTRONICS",
+        "accountNumber": "97236514758",
+        "accountBalance": "13814460",
+        "upcoming": [],
+        "previous": []
+    }
+}

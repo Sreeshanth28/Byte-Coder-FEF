@@ -1,0 +1,158 @@
+{
+    "ABCDE1234F": {
+        "CreditHistory": {
+            "CreditAccounts": [
+                {
+                    "Type": "Credit Card",
+                    "OpenedDate": "2015-06-15",
+                    "CreditLimit": 50000,
+                    "Balance": 15000,
+                    "OnTimePayments": "true",
+                    "RecentInquiries": 1
+                },
+                {
+                    "Type": "Personal Loan",
+                    "OpenedDate": "2017-09-10",
+                    "LoanAmount": 200000,
+                    "OutstandingBalance": 100000,
+                    "OnTimePayments": "true",
+                    "RecentInquiries": 0
+                }
+            ],
+            "Bankruptcies": 0,
+            "Liens": 0,
+            "Collections": 0,
+            "Judgments": 0
+        }
+    },
+    "FGHIJ5678K": {
+        "CreditHistory": {
+            "CreditAccounts": [
+                {
+                    "Type": "Mortgage",
+                    "OpenedDate": "2012-03-25",
+                    "LoanAmount": 3000000,
+                    "OutstandingBalance": 1500000,
+                    "OnTimePayments": "true",
+                    "RecentInquiries": 2
+                },
+                {
+                    "Type": "Car Loan",
+                    "OpenedDate": "2018-01-20",
+                    "LoanAmount": 800000,
+                    "OutstandingBalance": 500000,
+                    "OnTimePayments": "false",
+                    "RecentInquiries": 1
+                }
+            ],
+            "Bankruptcies": 1,
+            "Liens": 0,
+            "Collections": 1,
+            "Judgments": 0
+        }
+    },
+    "JKLMN9012P": {
+        "CreditHistory": {
+            "CreditAccounts": [
+                {
+                    "Type": "Credit Card",
+                    "OpenedDate": "2016-07-10",
+                    "CreditLimit": 60000,
+                    "Balance": 20000,
+                    "OnTimePayments": "true",
+                    "RecentInquiries": 2
+                },
+                {
+                    "Type": "Home Loan",
+                    "OpenedDate": "2019-11-05",
+                    "LoanAmount": 2500000,
+                    "OutstandingBalance": 1800000,
+                    "OnTimePayments": "true",
+                    "RecentInquiries": 1
+                }
+            ],
+            "Bankruptcies": 0,
+            "Liens": 0,
+            "Collections": 0,
+            "Judgments": 0
+        }
+    },
+    "QRSTU3456V": {
+        "CreditHistory": {
+            "CreditAccounts": [
+                {
+                    "Type": "Personal Loan",
+                    "OpenedDate": "2020-02-18",
+                    "LoanAmount": 100000,
+                    "OutstandingBalance": 50000,
+                    "OnTimePayments": "false",
+                    "RecentInquiries": 3
+                },
+                {
+                    "Type": "Credit Card",
+                    "OpenedDate": "2014-08-23",
+                    "CreditLimit": 40000,
+                    "Balance": 10000,
+                    "OnTimePayments": "true",
+                    "RecentInquiries": 0
+                }
+            ],
+            "Bankruptcies": 0,
+            "Liens": 0,
+            "Collections": 2,
+            "Judgments": 1
+        }
+    },
+    "WXYZA7890B": {
+        "CreditHistory": {
+            "CreditAccounts": [
+                {
+                    "Type": "Car Loan",
+                    "OpenedDate": "2018-12-30",
+                    "LoanAmount": 900000,
+                    "OutstandingBalance": 600000,
+                    "OnTimePayments": "true",
+                    "RecentInquiries": 1
+                },
+                {
+                    "Type": "Home Loan",
+                    "OpenedDate": "2013-05-15",
+                    "LoanAmount": 3500000,
+                    "OutstandingBalance": 1000000,
+                    "OnTimePayments": "false",
+                    "RecentInquiries": 2
+                }
+            ],
+            "Bankruptcies": 1,
+            "Liens": 1,
+            "Collections": 1,
+            "Judgments": 0
+        }
+    },
+    "DCVFE4325I": {
+        "CreditHistory": {
+            "CreditAccounts": [
+                {
+                    "Type": "Car Loan",
+                    "OpenedDate": "2018-12-30",
+                    "LoanAmount": 900000,
+                    "OutstandingBalance": 600000,
+                    "OnTimePayments": "true",
+                    "RecentInquiries": 1
+                },
+                {
+                    "Type": "Home Loan",
+                    "OpenedDate": "2013-05-15",
+                    "LoanAmount": 3500000,
+                    "OutstandingBalance": 1000000,
+                    "OnTimePayments": "false",
+                    "RecentInquiries": 2
+                }
+            ],
+            "Bankruptcies": 0,
+            "Liens": 1,
+            "Collections": 1,
+            "Judgments": 0
+        }
+    }
+}

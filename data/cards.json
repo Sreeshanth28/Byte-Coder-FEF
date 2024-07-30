@@ -1,0 +1,10 @@
+[
+    {
+        "BNPLID": 11,
+        "cardDetails": {
+            "cardNumber": "0276 9606 8254 6963",
+            "CVV": "146",
+            "expiryDate": "09/29"
+        }
+    }
+]
